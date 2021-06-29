@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "The Help", "details": "Three ordinary women are about to take one extraordinary step. The Help is a timeless and universal story about the lines we abide by, and the ones we don't." },
-    { "id": 2, "title": "The Kite Runner", "details": "The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father’s servant, The Kite Runner is a beautifully crafted novel set in a country that is in the process of being destroyed." },
-    { "id": 3, "title": "The Book Thief", "details": "By her brother's graveside, Liesel's life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger's Handbook, left behind there by accident, and it is her first act of book thievery." }
+    { "id": 1, "title": "The Help", "author": "Kathryn Stockett", "details": "Three ordinary women are about to take one extraordinary step. The Help is a timeless and universal story about the lines we abide by, and the ones we don't." },
+    { "id": 2, "title": "The Kite Runner",  "author": "Khaled Hosseini","details": "The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father’s servant, The Kite Runner is a beautifully crafted novel set in a country that is in the process of being destroyed." },
+    { "id": 3, "title": "The Book Thief",  "author": "Markus Zusak","details": "By her brother's graveside, Liesel's life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger's Handbook, left behind there by accident, and it is her first act of book thievery." }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
