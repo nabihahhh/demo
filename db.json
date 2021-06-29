@@ -5,7 +5,7 @@
     { "id": 3, "title": "The Book Thief", "author": "Markus Zusak", "details": "By her brother's graveside, Liesel's life is changed when she picks up a single object, partially hidden in the snow. It is The Gravedigger's Handbook, left behind there by accident, and it is her first act of book thievery." },
     { "id": 4, "title": "Jane Eyre", "author": "Charlotte Bronte", "details": "Orphaned as a child, Jane has felt an outcast her whole young life. Her courage is tested once again when she arrives at Thornfield Hall, where she has been hired by the brooding, proud Edward Rochester to care for his ward Adèle." },
     { "id": 5, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "details": "The story is of the fabulously wealthy Jay Gatsby and his new love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted gin was the national drink and sex the national obsession." },
-    { "id": 6, "title": "Little Woman", "author": "Louisa May Alcott", "details": "Here are talented tomboy and author-to-be Jo, tragically frail Beth, beautiful Meg, and romantic, spoiled Amy, united in their devotion to each other and their struggles to survive in New England during the Civil War." },
+    { "id": 6, "title": "Little Woman", "author": "Louisa May Alcott", "details": "Here are talented tomboy and author-to-be Jo, tragically frail Beth, beautiful Meg, and romantic, spoiled Amy, united in their devotion to each other and their struggles to survive in New England during the Civil War." }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
